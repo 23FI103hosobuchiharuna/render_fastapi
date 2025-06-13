@@ -30,7 +30,7 @@ def index():
         <body>
             <h1>Look! HTML!</h1>
             <h2>-------</h2>
-            <h2>|      |</h2>
+            <h2>||||||</h2>
             <h2>-------</h2>
         </body>
     </html>
